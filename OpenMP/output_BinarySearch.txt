@@ -1,0 +1,2 @@
+Enter size of a list: Generated elements: 46 85 81 22 31 57 63 61 12 1 54 0 73 71 76 73 20 15 0 91 60 45 21 13 33 20 91 13 21 19 65 20 56 99 42 39 56 6 53 20 7 7 72 80 79 48 53 51 63 6 
+Enter key to search: Key found
