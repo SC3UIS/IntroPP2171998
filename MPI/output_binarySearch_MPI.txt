@@ -1,0 +1,10 @@
+Warning: Intel PAC device is not found.
+Please install the Intel PAC card to execute your program on an FPGA device.
+Warning: Intel PAC device is not found.
+Please install the Intel PAC card to execute your program on an FPGA device.
+Enter key to search: Key not found
+Enter key to search: Key not found
+Tiempo tomado para ordenar la lista: 0.350000 seconds
+Enter key to search: Key not found
+Tiempo tomado para buscar en lista ordenada: 0.000000 seconds
+Enter key to search: Key not found
